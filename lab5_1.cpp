@@ -10,12 +10,10 @@ int main(){
         if(x != 0){
         cout << "Enter an integer: ";
         cin >> x;
-        cout << "\n";
         if(x %2 == 0){
             even++;
         }else{
             old++;
-
         }
     }
 
